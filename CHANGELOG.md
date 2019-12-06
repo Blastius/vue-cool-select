@@ -1,3 +1,17 @@
+## [3.5.1](https://github.com/iliyaZelenko/vue-cool-select/compare/v3.5.0...v3.5.1) (2019-11-12)
+
+
+### Bug Fixes
+
+* input event on component's created hook. The items prop is not required when simple-input prop ([b2c17b4](https://github.com/iliyaZelenko/vue-cool-select/commit/b2c17b4))
+
+# [3.5.0](https://github.com/iliyaZelenko/vue-cool-select/compare/v3.4.0...v3.5.0) (2019-11-06)
+
+
+### Bug Fixes
+
+* **component:** fixes [#254](https://github.com/iliyaZelenko/vue-cool-select/issues/254) - Remove async from showMenu() ([223160f](https://github.com/iliyaZelenko/vue-cool-select/commit/223160f))
+
 # [3.4.0](https://github.com/iliyaZelenko/vue-cool-select/compare/v3.3.0...v3.4.0) (2019-11-04)
 
 
